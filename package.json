@@ -1,4 +1,9 @@
-{
+
+  {
+    "type": "module",
+    "scripts": {
+      "start": "node main.js"
+    },
   "devDependencies": {
     "jest": "^29.7.0"
   },
@@ -7,7 +12,7 @@
   }
 
 
-}
+
 
 
   
