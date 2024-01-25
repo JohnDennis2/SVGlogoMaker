@@ -1,21 +1,40 @@
-
-  {
-    "type": "module",
-    "scripts": {
-      "start": "node main.js"
-    },
-  "devDependencies": {
+{
+  
+  
+    "devDependencies": {
+  
+  
+      
+  
     "jest": "^29.7.0"
-  },
-  "dependencies": {
-    "inquirer": "^9.2.12"
-  }
-
-
-
-
-
-  
-
   
   
+    },
+  
+  
+    "dependencies": {
+  
+  
+      
+  
+    "inquirer": "^8.2.4"
+  
+  
+    },
+  
+  
+    "scripts": {
+  
+  
+      
+  
+    "test": "jest",
+  
+  
+      
+  
+    "start": "node main.js"
+  
+  
+    }
+}
